@@ -2,7 +2,7 @@
 
 ## Demo Video
 
-Video walthrough of the AI Agent can be found ![here](https://www.loom.com/share/f952cd5d85cd484e93698ced5a1d47fc?sid=6e652ccb-532e-4d5a-a63d-d2cef5549880)
+Video walkthrough of the AI Agent can be found [here](https://www.loom.com/share/f952cd5d85cd484e93698ced5a1d47fc?sid=6e652ccb-532e-4d5a-a63d-d2cef5549880)
 
 ## Overview
 
