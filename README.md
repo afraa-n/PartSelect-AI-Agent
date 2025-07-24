@@ -1,5 +1,9 @@
 # PartSelect Chat Agent
 
+## Demo Video
+
+Video walthrough of the AI Agent can be found ![here](https://www.loom.com/share/f952cd5d85cd484e93698ced5a1d47fc?sid=6e652ccb-532e-4d5a-a63d-d2cef5549880)
+
 ## Overview
 
 AI-powered customer support platform for appliance parts e-commerce, featuring a professional conversational interface that sounds like an experienced appliance repair expert. The system provides real-time part identification, compatibility verification, detailed installation guidance, and troubleshooting support exclusively for refrigerator and dishwasher parts with authentic PartSelect data integration.
