@@ -64,5 +64,3 @@ Application runs at `http://localhost:5000`
 - **[Deployment Guide](./docs/deployment-guide.md)** - Production setup
 - **[Development Guide](./docs/development-guide.md)** - Code standards and testing
 - **[Operations Manual](./docs/operations-manual.md)** - Monitoring and troubleshooting
-- **[Recent Updates](./docs/recent-updates.md)** - Latest features and enhancements
-
